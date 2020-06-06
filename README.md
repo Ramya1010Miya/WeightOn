@@ -1,7 +1,7 @@
 # WeightOn
-***You can install the sample app by clicking below 👍***
+***You can install the sample app by clicking below 👇***
 
-[Your Weight on App --click here](https://github.com/Ramya1010Miya/WeightOn/raw/af6acad592ed652a598538696b3ab4e0504df697/WeightOn.apk)
+[![YourWeightOn.APP](https://img.shields.io/badge/YourWeightOn-APP-green)](https://github.com/Ramya1010Miya/WeightOn/raw/af6acad592ed652a598538696b3ab4e0504df697/WeightOn.apk)
 ## DEMO
 
 ![Your-Weight-On DEMO](https://github.com/Ramya1010Miya/WeightOn/blob/dd67d2dac6043119f77f4bb4215f600f960a13d1/IMG-20200606-WA0017__01.jpg)
