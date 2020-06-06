@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeightOn</string>
+        <string name="weight_title">What\'s your Weight on...?</string>
+        <string name="hint_weight">Enter your weight</string>
+        <string name="show_weight">Show Weight</string>
+        <string name="mars">Mars</string>
+        <string name="venus">Venus</string>
+        <string name="jupiter">Jupiter</string>
+        <string name="inputtype">text</string>
+    </resources>
