@@ -12,3 +12,13 @@ A app that calculate your weight on different planets 🌏
 
 ## Build With
 -[KOTLIN](https://kotlinlang.org/) -First class and official programing language for Android develpoment.
+
+## Concepts Implemented:
+
+  1.Data Classes have been created and Imported some classes.
+  
+  2.From Parent Classes functions been override.
+  
+  3.Used Conditional concepts such as "when" and "try,catch"
+  
+  4.I have used the "Named Parameter" concept.
